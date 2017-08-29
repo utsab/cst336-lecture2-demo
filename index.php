@@ -1,5 +1,10 @@
 <html>
+    <head>
+         <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
 <body>
+
+<h1> This is the header of my page</h1>
 Hurrah!
 
 </body>
